@@ -1,0 +1,28 @@
+name: SoniaGinty
+favicon: null
+layout_spectrum: 0.4238033602014184
+typography_spectrum: 0.13091928861103952
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.14800922386348248
+  lightness: 0.34905906091444194
+  saturation: 0.13689190987497568
+  rhythmicContrast: 0.4261068543419242
+purpose: []
